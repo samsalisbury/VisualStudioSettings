@@ -1310,9 +1310,9 @@
 							<Item Name="XML CData Section" Foreground="0x00C0C0C0" Background="0x02000000" BoldFont="Yes"/>
 							<Item Name="XML Comment" Foreground="0x00C0C0C0" Background="0x02000000" BoldFont="Yes"/>
 							<Item Name="XML Delimiter" Foreground="0x00FFFFFF" Background="0x02000000" BoldFont="Yes"/>
-							<Item Name="XML Doc Attribute" Foreground="0x0100000B" Background="0x02000000" BoldFont="Yes"/>
-							<Item Name="XML Doc Comment" Foreground="0x01000005" Background="0x02000000" BoldFont="Yes"/>
-							<Item Name="XML Doc Tag" Foreground="0x0100000B" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="XML Doc Attribute" Foreground="0x00BFBFBF" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="XML Doc Comment" Foreground="0x0000D500" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="XML Doc Tag" Foreground="0x00BFBFBF" Background="0x02000000" BoldFont="Yes"/>
 							<Item Name="XML Keyword" Foreground="0x0064BCE8" Background="0x02000000" BoldFont="Yes"/>
 							<Item Name="XML Name" Foreground="0x003278CC" Background="0x02000000" BoldFont="Yes"/>
 							<Item Name="XML Processing Instruction" Foreground="0x0100000B" Background="0x02000000" BoldFont="Yes"/>
@@ -2047,8 +2047,8 @@
 							<ViewBookmark Name="ST:0:0:{57dc5d59-11c2-4955-a7b4-d7699d677e93}" ViewBookmarkType="Raft" FloatingHeight="422.4" FloatingWidth="204.8"/>
 						</TabGroup>
 					</FloatSite>
-					<FloatSite FloatingTop="72" FloatingLeft="1646.4" FloatingHeight="816" FloatingWidth="1212" FloatingWindowState="Maximized">
-						<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" IconIndex="15" IconResourceID="6650" IconResourcePackage="4a9b7e50-aa16-11d0-a8c5-00a0c921a4d2" Name="ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}" IsSelected="True" DockedHeight="192" DockedWidth="1024" FloatingTop="72" FloatingLeft="1646.4" FloatingHeight="816" FloatingWidth="1212"/>
+					<FloatSite IsVisible="True" FloatingTop="72" FloatingLeft="1646.4" FloatingHeight="816" FloatingWidth="1212" FloatingWindowState="Maximized">
+						<wm:ToolWindowView ContextVisibilityEnabled="False" ForceCreate="ForceCreate" IconIndex="15" IconResourceID="6650" IconResourcePackage="4a9b7e50-aa16-11d0-a8c5-00a0c921a4d2" Name="ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}" IsSelected="True" IsVisible="True" DockedHeight="192" DockedWidth="1024" FloatingTop="72" FloatingLeft="1646.4" FloatingHeight="816" FloatingWidth="1212"/>
 					</FloatSite>
 				</WindowProfile>
 			</Design>
